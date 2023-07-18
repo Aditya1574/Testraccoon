@@ -12,6 +12,8 @@ int main(){
 	for(auto item: v){
 		cout<<item<<" ";
 	}
+	for(int  i =0 ;i < 0;i++)
+		v[i] = 2*v[i]
 	return 0;
 }
 
